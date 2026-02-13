@@ -77,7 +77,6 @@ button {
 </audio>
 
 <h1>Hey My Love 💕</h1>
-<p>Look at us first 🥹</p>
 
 <h1>Will you be my Valentine? 💘</h1>
 
